@@ -14,7 +14,7 @@
   </Description>
   <Document RemoveSpeakerNotes="false">.\WindowsAzureOverview.pptx</Document>
   <Title>Windows Azure Overview</Title>
-  <Version>1.0.5</Version>
+  <Version>1.0.6</Version>
   <SlideThumbnail>1</SlideThumbnail>
   <CustomProperties>
     <Property Name="Filter" Value="Foundation,itprocamps" />
